@@ -44,6 +44,7 @@ public interface BoardDAO {
 	// 댓글 삭제를 처리하기 위한 메소드
 	public int replyDelete(int reno);
 	//하이
+	//나는 김민성
 }
 
 
